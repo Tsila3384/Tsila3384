@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Tsilavina ROBEL
+# 👋 Salut, moi c'est [Votre Nom]
 
 ## 🚀 Développeur Full Stack | Performance Obsessed
 
@@ -37,18 +37,34 @@ Langages    ☕ Java • 🐘 PHP • 📜 JavaScript
 - PostgreSQL (optimisation des requêtes, indexation)
 - Redis (caching)
 
-
 **DevOps & Tools**
 - Docker, Docker Compose
 - Git, GitHub Actions
 - Maven/Gradle
 - Postman, DBeaver
 
-### 📊 GitHub Stats
+### 📊 Compétences
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical&hide_border=true)
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<!-- Alternative si les stats ne s'affichent pas, décommentez celle-ci et commentez celle du dessus :
+![](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=false)
+-->
 
 ### 🔥 Projets en vedette
 
@@ -62,8 +78,8 @@ Consultez mes repositories épinglés ci-dessous pour voir mes projets les plus 
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tsilavina-robel-a83288222)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robeltsilavina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 
 ---
 
